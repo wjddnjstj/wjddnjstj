@@ -1,4 +1,4 @@
-<h1 align="center"> 안녕하세요 프론트엔드 개발자 서정원입니다 👩🏻‍💻 </h1>
+<h1 align="center"> 안녕하세요 서정원입니다 👩🏻‍💻 </h1>
 
 <h3 align="left"> tech stack  ⚒️ </h3>
 <p align="left">
